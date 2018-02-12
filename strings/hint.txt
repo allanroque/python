@@ -1,0 +1,88 @@
+2 - 
+caesar = "Graham"
+praline = "John"
+viking = "Teresa"
+
+# Put your variables above this line
+
+print caesar
+print praline
+print viking
+
+------------
+
+3 - 
+
+parrot = "Norwegian Blue"
+print len(parrot)
+
+parrot = "Norwegian Blue"
+
+print parrot.lower()
+
+parrot = "norwegian blue"
+
+print parrot.upper()
+
+pi = 3.14
+print str(pi)
+
+print len(ministry)
+print ministry.upper()
+
+the_machine_goes = "Ping!"
+print the_machine_goes
+
+print "Spam " + "and " + "eggs"
+
+print "The value of pi is around " + str(3.14)
+
+
+en("Charlie")
+"Delta".upper()
+"Echo".lower()
+
+4 - String Formatting with %
+
+string_1 = "Camelot"
+string_2 = "place"
+
+print "Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)
+
+name = ""
+
+---
+
+name = "Mike"
+print "Hello %s" % (name)
+
+print "The %s who %s %s!" % ("Knights", "say", "Ni")
+
+----
+
+name = raw_input("What is your name? ")
+quest = raw_input("What is your quest? ")
+color = raw_input("What is your favorite color? ")
+
+print "Ah, so your name is %s, your quest is %s, " \
+"and your favorite color is %s." % (name, quest, color)
+
+
+----
+
+g = "Golf"
+h = "Hotel"
+print "%s, %s" % (g, h)
+
+
+-----
+
+my_string = "allan"
+print len(my_string)
+print my_string.upper()
+
+
+---------
+
+
+
